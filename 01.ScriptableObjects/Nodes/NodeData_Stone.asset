@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b7e2449a595d8a41989cbb5ae9dfd99, type: 3}
+  m_Name: NodeData_Stone
+  m_EditorClassIdentifier: 
+  outputItem: {fileID: 11400000, guid: ff69d476e568e92479e8954338df5b9d, type: 2}
+  mineInterval: 1
+  respawnTime: 3

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25ba0825b2e74b9419cb9db9c86c4013, type: 3}
+  m_Name: MiningToolData
+  m_EditorClassIdentifier: 
+  tools:
+  - cost: 0
+    equipPrefab: {fileID: 833004610884844180, guid: e41321af970d572439c5c23b0398707f, type: 3}
+    slotCount: 1
+    mineSpeed: 1
+    stoneCapacityDelta: 10
+    mineClip: {fileID: 8300000, guid: b7b5a6156961bac44a67504d42ce6fcf, type: 3}
+  - cost: 5
+    equipPrefab: {fileID: 3656879008407562920, guid: b8fd7b678fcaf284c866c24696c58698, type: 3}
+    slotCount: 1
+    mineSpeed: 5
+    stoneCapacityDelta: 10
+    mineClip: {fileID: 8300000, guid: 490bfbc72255342408984f60044487de, type: 3}
+  - cost: 10
+    equipPrefab: {fileID: 476413591954761785, guid: 0aa7ab362fe176a42a5024dc59832174, type: 3}
+    slotCount: 4
+    mineSpeed: 5
+    stoneCapacityDelta: 10
+    mineClip: {fileID: 8300000, guid: 490bfbc72255342408984f60044487de, type: 3}
